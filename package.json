@@ -1,0 +1,14 @@
+{
+  "name": "event-hubs-amqp",
+  "version": "1.0.0",
+  "description": "Event Hubs AMQP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nishaanth S P",
+  "license": "ISC",
+  "dependencies": {
+    "amqp10": "^3.6.0"
+  }
+}
